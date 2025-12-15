@@ -1,0 +1,9 @@
+{
+  "name": "Entre Nós – Verdade ou Desafio",
+  "short_name": "Entre Nós",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#0b0010",
+  "theme_color": "#9c27b0",
+  "icons": []
+}
