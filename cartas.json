@@ -1,0 +1,36 @@
+{
+  "verdade": {
+    "leve": [
+      "O que faz você se sentir conectada a alguém?",
+      "Qual detalhe em uma pessoa chama sua atenção primeiro?",
+      "O que te deixa confortável em um ambiente íntimo?"
+    ],
+    "media": [
+      "Qual foi um momento em que você se sentiu desejada?",
+      "O que mais aproxima você emocionalmente de alguém?",
+      "O que você considera essencial em uma conexão profunda?"
+    ],
+    "intensa": [
+      "Qual desejo você ainda não verbalizou?",
+      "O que te faz baixar a guarda com alguém?",
+      "O que te faz se sentir segura para se entregar?"
+    ]
+  },
+  "desafio": {
+    "leve": [
+      "Sorria lentamente para a câmera por 10 segundos.",
+      "Faça um elogio sincero.",
+      "Respire fundo e ajuste sua postura."
+    ],
+    "medio": [
+      "Dance lentamente por 30 segundos.",
+      "Descreva um momento íntimo que te marcou.",
+      "Feche os olhos e respire por 20 segundos."
+    ],
+    "intenso": [
+      "Desafio avançado – personalize conforme consentimento.",
+      "Guie a próxima rodada.",
+      "Descreva uma fantasia de conexão profunda."
+    ]
+  }
+}
