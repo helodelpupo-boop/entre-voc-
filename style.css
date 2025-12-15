@@ -1,0 +1,73 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  background: radial-gradient(circle at top, #2a0036, #0b0010);
+  color: #fff;
+  font-family: "Inter", Arial, sans-serif;
+}
+
+.app {
+  max-width: 420px;
+  margin: auto;
+  padding: 24px;
+  text-align: center;
+}
+
+h1 {
+  margin-bottom: 4px;
+}
+
+.subtitulo {
+  opacity: 0.8;
+  margin-top: 0;
+}
+
+button {
+  width: 100%;
+  margin-top: 16px;
+  padding: 16px;
+  font-size: 18px;
+  border-radius: 14px;
+  border: none;
+  cursor: pointer;
+  color: #fff;
+  background: linear-gradient(135deg, #e91e63, #9c27b0);
+  transition: transform 0.2s ease;
+}
+
+button:hover {
+  transform: scale(1.03);
+}
+
+#resultado {
+  margin-top: 20px;
+  font-size: 18px;
+}
+
+#carta {
+  margin-top: 20px;
+  padding: 18px;
+  border-radius: 12px;
+  background: rgba(255,255,255,0.08);
+  font-size: 20px;
+  animation: flip 0.6s ease;
+}
+
+#controle {
+  margin-top: 10px;
+}
+
+@keyframes flip {
+  from {
+    transform: rotateY(90deg);
+    opacity: 0;
+  }
+  to {
+    transform: rotateY(0);
+    opacity: 1;
+  }
+}
